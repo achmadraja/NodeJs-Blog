@@ -269,7 +269,7 @@ img {
 }
 
 /* SearchBar */
-.searchbar {
+.searchBar {
     visibility: hidden;
     transform: translateY(-100px);
     background-color: var(--black);
