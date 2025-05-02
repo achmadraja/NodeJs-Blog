@@ -33,7 +33,6 @@ try {
         nextPage: hasNextPage ? nextPage : null 
     });
 
-        res.render('index', { locals, data });
     }
     catch (error) {
         console.log(error);
